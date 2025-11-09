@@ -67,7 +67,7 @@ await Hive.openBox<ItemModel>('itemsBox');
 
 Clone this repository:
 
-git clone git@github.com:Wakilspace/afrifound_assessment_app.git
+git clone git@github.com:Wakilspace/afrifound.git
 
 
 Open the project in VS Code or Android Studio.
@@ -97,5 +97,5 @@ View: (HomeScreen, AddEditScreen) reacts to ViewModel state changes through Rive
 	
 Author
 
-Developed by: [Your Name]
+Developed by: Wakil Abubakar
 GitHub: Wakilspace
